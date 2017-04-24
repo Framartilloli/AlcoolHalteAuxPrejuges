@@ -1,0 +1,1458 @@
+[
+  {
+    "Pays": "France",
+    "Proportion de buveurs": 94.8,
+    "Espérance de vie": 72.6,
+    "Size": 2.11894243598301,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Luxembourg",
+    "Proportion de buveurs": 93.9,
+    "Espérance de vie": 71.8,
+    "Size": 2.08283086316177,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Czech Republic",
+    "Proportion de buveurs": 89.1,
+    "Espérance de vie": 69.4,
+    "Size": 1.89023580811519,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Denmark",
+    "Proportion de buveurs": 88.6,
+    "Espérance de vie": 71.2,
+    "Size": 1.8701738232145,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Switzerland",
+    "Proportion de buveurs": 88.5,
+    "Espérance de vie": 73.1,
+    "Size": 1.86616142623436,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Netherlands",
+    "Proportion de buveurs": 88.2,
+    "Espérance de vie": 72.2,
+    "Size": 1.85412423529395,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Norway",
+    "Proportion de buveurs": 85.9,
+    "Espérance de vie": 72,
+    "Size": 1.7618391047508,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Cyprus",
+    "Proportion de buveurs": 85,
+    "Espérance de vie": 71.3,
+    "Size": 1.72572753192956,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Australia",
+    "Proportion de buveurs": 84,
+    "Espérance de vie": 71.9,
+    "Size": 1.68560356212819,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "United Kingdom of Great Britain and Northern Ireland",
+    "Proportion de buveurs": 83.9,
+    "Espérance de vie": 71.4,
+    "Size": 1.68159116514805,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Belgium",
+    "Proportion de buveurs": 82.3,
+    "Espérance de vie": 71.1,
+    "Size": 1.61739281346586,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Hungary",
+    "Proportion de buveurs": 81.4,
+    "Espérance de vie": 67.4,
+    "Size": 1.58128124064462,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Ireland",
+    "Proportion de buveurs": 80.9,
+    "Espérance de vie": 71.5,
+    "Size": 1.56121925574394,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Croatia",
+    "Proportion de buveurs": 80.5,
+    "Espérance de vie": 69.4,
+    "Size": 1.54516966782339,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Germany",
+    "Proportion de buveurs": 80.3,
+    "Espérance de vie": 71.3,
+    "Size": 1.53714487386311,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "New Zealand",
+    "Proportion de buveurs": 79.5,
+    "Espérance de vie": 71.6,
+    "Size": 1.50504569802201,
+    "Color": 0.167414971004892,
+    "Category": "Oceanie"
+  },
+  {
+    "Pays": "Belarus",
+    "Proportion de buveurs": 79.2,
+    "Espérance de vie": 65.2,
+    "Size": 1.4930085070816,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Austria",
+    "Proportion de buveurs": 77.4,
+    "Espérance de vie": 72,
+    "Size": 1.42078536143913,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Canada",
+    "Proportion de buveurs": 77.1,
+    "Espérance de vie": 72.3,
+    "Size": 1.40874817049872,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Japan",
+    "Proportion de buveurs": 68.9,
+    "Espérance de vie": 74.9,
+    "Size": 1.07973161812747,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "United States of America",
+    "Proportion de buveurs": 68.9,
+    "Espérance de vie": 69.1,
+    "Size": 1.07973161812747,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Sweden",
+    "Proportion de buveurs": 68.8,
+    "Espérance de vie": 72,
+    "Size": 1.07571922114733,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Barbados",
+    "Proportion de buveurs": 68.6,
+    "Espérance de vie": 66.8,
+    "Size": 1.06769442718706,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Spain",
+    "Proportion de buveurs": 68.3,
+    "Espérance de vie": 72.4,
+    "Size": 1.05565723624665,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Ukraine",
+    "Proportion de buveurs": 68.3,
+    "Espérance de vie": 64.1,
+    "Size": 1.05565723624665,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Finland",
+    "Proportion de buveurs": 68,
+    "Espérance de vie": 71,
+    "Size": 1.04362004530624,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Iceland",
+    "Proportion de buveurs": 67.9,
+    "Espérance de vie": 72.7,
+    "Size": 1.0396076483261,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Russian Federation",
+    "Proportion de buveurs": 67.8,
+    "Espérance de vie": 63.4,
+    "Size": 1.03559525134596,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Latvia",
+    "Proportion de buveurs": 67.7,
+    "Espérance de vie": 67.1,
+    "Size": 1.03158285436582,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Italy",
+    "Proportion de buveurs": 67.6,
+    "Espérance de vie": 72.8,
+    "Size": 1.02757045738569,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Romania",
+    "Proportion de buveurs": 67.6,
+    "Espérance de vie": 66.8,
+    "Size": 1.02757045738569,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Slovenia",
+    "Proportion de buveurs": 67.6,
+    "Espérance de vie": 71.1,
+    "Size": 1.02757045738569,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Bulgaria",
+    "Proportion de buveurs": 67.4,
+    "Espérance de vie": 66.4,
+    "Size": 1.01954566342541,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Antigua and Barbuda",
+    "Proportion de buveurs": 66.6,
+    "Espérance de vie": 67.2,
+    "Size": 0.987446487584315,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Republic of Moldova",
+    "Proportion de buveurs": 66.3,
+    "Espérance de vie": 64.9,
+    "Size": 0.975409296643903,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Greece",
+    "Proportion de buveurs": 66.2,
+    "Espérance de vie": 71.9,
+    "Size": 0.971396899663766,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Serbia",
+    "Proportion de buveurs": 66,
+    "Espérance de vie": 67.7,
+    "Size": 0.963372105703492,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Chile",
+    "Proportion de buveurs": 65.9,
+    "Espérance de vie": 70.5,
+    "Size": 0.959359708723355,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Slovakia",
+    "Proportion de buveurs": 65.8,
+    "Espérance de vie": 68.1,
+    "Size": 0.955347311743217,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Lithuania",
+    "Proportion de buveurs": 65.3,
+    "Espérance de vie": 66.1,
+    "Size": 0.935285326842531,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Estonia",
+    "Proportion de buveurs": 65.2,
+    "Espérance de vie": 69,
+    "Size": 0.931272929862394,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Montenegro",
+    "Proportion de buveurs": 65.2,
+    "Espérance de vie": 67.9,
+    "Size": 0.931272929862394,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Armenia",
+    "Proportion de buveurs": 64,
+    "Espérance de vie": 66.9,
+    "Size": 0.883124166100748,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Togo",
+    "Proportion de buveurs": 62.8,
+    "Espérance de vie": 52.8,
+    "Size": 0.834975402339101,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Cuba",
+    "Proportion de buveurs": 62.2,
+    "Espérance de vie": 69.2,
+    "Size": 0.810901020458278,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Paraguay",
+    "Proportion de buveurs": 61.9,
+    "Espérance de vie": 65.2,
+    "Size": 0.798863829517866,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Malta",
+    "Proportion de buveurs": 60.6,
+    "Espérance de vie": 71.7,
+    "Size": 0.746702668776083,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Panama",
+    "Proportion de buveurs": 59.8,
+    "Espérance de vie": 68.1,
+    "Size": 0.714603492934985,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Guyana",
+    "Proportion de buveurs": 59.5,
+    "Espérance de vie": 59,
+    "Size": 0.702566301994574,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Venezuela (Bolivarian Republic of)",
+    "Proportion de buveurs": 59.1,
+    "Espérance de vie": 65.2,
+    "Size": 0.686516714074025,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Argentina",
+    "Proportion de buveurs": 58.8,
+    "Espérance de vie": 67.6,
+    "Size": 0.674479523133613,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Uruguay",
+    "Proportion de buveurs": 58.7,
+    "Espérance de vie": 67.9,
+    "Size": 0.670467126153476,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Brazil",
+    "Proportion de buveurs": 57.7,
+    "Espérance de vie": 65.5,
+    "Size": 0.630343156352104,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Bosnia and Herzegovina",
+    "Proportion de buveurs": 57.2,
+    "Espérance de vie": 68.6,
+    "Size": 0.610281171451418,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "The former Yugoslav republic of Macedonia",
+    "Proportion de buveurs": 57.1,
+    "Espérance de vie": 67.5,
+    "Size": 0.606268774471281,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Portugal",
+    "Proportion de buveurs": 57,
+    "Espérance de vie": 71.4,
+    "Size": 0.602256377491143,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Mexico",
+    "Proportion de buveurs": 56.9,
+    "Espérance de vie": 67.4,
+    "Size": 0.598243980511006,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Saint Vincent and the Grenadines",
+    "Proportion de buveurs": 55.9,
+    "Espérance de vie": 64.6,
+    "Size": 0.558120010709634,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Haiti",
+    "Proportion de buveurs": 55.4,
+    "Espérance de vie": 55.4,
+    "Size": 0.538058025808948,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Peru",
+    "Proportion de buveurs": 55.4,
+    "Espérance de vie": 65.7,
+    "Size": 0.538058025808948,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Dominican Republic",
+    "Proportion de buveurs": 55.2,
+    "Espérance de vie": 65.1,
+    "Size": 0.530033231848674,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Bahamas",
+    "Proportion de buveurs": 55,
+    "Espérance de vie": 66.6,
+    "Size": 0.522008437888399,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Albania",
+    "Proportion de buveurs": 53.8,
+    "Espérance de vie": 68.8,
+    "Size": 0.473859674126753,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Saint Lucia",
+    "Proportion de buveurs": 52.2,
+    "Espérance de vie": 66.1,
+    "Size": 0.409661322444558,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Israel",
+    "Proportion de buveurs": 51.9,
+    "Espérance de vie": 72.8,
+    "Size": 0.397624131504146,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Suriname",
+    "Proportion de buveurs": 51.9,
+    "Espérance de vie": 63.1,
+    "Size": 0.397624131504146,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Bolivia (Plurinational State of)",
+    "Proportion de buveurs": 51.7,
+    "Espérance de vie": 62.5,
+    "Size": 0.389599337543872,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Poland",
+    "Proportion de buveurs": 51.7,
+    "Espérance de vie": 68.7,
+    "Size": 0.389599337543872,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Costa Rica",
+    "Proportion de buveurs": 51.4,
+    "Espérance de vie": 69.8,
+    "Size": 0.37756214660346,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Trinidad and Tobago",
+    "Proportion de buveurs": 51.1,
+    "Espérance de vie": 63.3,
+    "Size": 0.365524955663049,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Singapore",
+    "Proportion de buveurs": 49.9,
+    "Espérance de vie": 73.9,
+    "Size": 0.317376191901402,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Nicaragua",
+    "Proportion de buveurs": 49.3,
+    "Espérance de vie": 63.8,
+    "Size": 0.293301810020579,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Grenada",
+    "Proportion de buveurs": 48.4,
+    "Espérance de vie": 65,
+    "Size": 0.257190237199344,
+    "Color": 1.66746543301318,
+    "Category": "Europe"
+  },
+  {
+    "Pays": "Colombia",
+    "Proportion de buveurs": 48.3,
+    "Espérance de vie": 65.2,
+    "Size": 0.253177840219207,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Lao People's Democratic Republic",
+    "Proportion de buveurs": 47.9,
+    "Espérance de vie": 57.9,
+    "Size": 0.237128252298658,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Honduras",
+    "Proportion de buveurs": 47.4,
+    "Espérance de vie": 64.9,
+    "Size": 0.217066267397972,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Ecuador",
+    "Proportion de buveurs": 47.3,
+    "Espérance de vie": 67,
+    "Size": 0.213053870417835,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Jamaica",
+    "Proportion de buveurs": 45.8,
+    "Espérance de vie": 67,
+    "Size": 0.152867915715777,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Mongolia",
+    "Proportion de buveurs": 45.7,
+    "Espérance de vie": 62.1,
+    "Size": 0.14885551873564,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Samoa",
+    "Proportion de buveurs": 45.3,
+    "Espérance de vie": 66.6,
+    "Size": 0.132805930815091,
+    "Color": 0.167414971004892,
+    "Category": "Oceanie"
+  },
+  {
+    "Pays": "Republic of Korea",
+    "Proportion de buveurs": 44.8,
+    "Espérance de vie": 73.2,
+    "Size": 0.112743945914405,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Rwanda",
+    "Proportion de buveurs": 44.7,
+    "Espérance de vie": 56.6,
+    "Size": 0.108731548934268,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Proportion de buveurs": 44.7,
+    "Espérance de vie": 44.4,
+    "Size": 0.108731548934268,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Philippines",
+    "Proportion de buveurs": 44.3,
+    "Espérance de vie": 61.1,
+    "Size": 0.0926819610137188,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Seychelles",
+    "Proportion de buveurs": 44.2,
+    "Espérance de vie": 65.5,
+    "Size": 0.0886695640335818,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "China",
+    "Proportion de buveurs": 44.1,
+    "Espérance de vie": 68.5,
+    "Size": 0.0846571670534445,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Azerbaijan",
+    "Proportion de buveurs": 44,
+    "Espérance de vie": 64.7,
+    "Size": 0.0806447700733073,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "El Salvador",
+    "Proportion de buveurs": 44,
+    "Espérance de vie": 64.1,
+    "Size": 0.0806447700733073,
+    "Color": -0.51967879070401,
+    "Category": "America"
+  },
+  {
+    "Pays": "Swaziland",
+    "Proportion de buveurs": 43.9,
+    "Espérance de vie": 50.9,
+    "Size": 0.07663237309317,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Nigeria",
+    "Proportion de buveurs": 43.6,
+    "Espérance de vie": 47.7,
+    "Size": 0.0645951821527585,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Eritrea",
+    "Proportion de buveurs": 43.3,
+    "Espérance de vie": 55.7,
+    "Size": 0.0525579912123467,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Cameroon",
+    "Proportion de buveurs": 43.2,
+    "Espérance de vie": 50.3,
+    "Size": 0.0485455942322098,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Guatemala",
+    "Proportion de buveurs": 42.3,
+    "Espérance de vie": 62.2,
+    "Size": 0.0124340214109747,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Burundi",
+    "Proportion de buveurs": 42.1,
+    "Espérance de vie": 52.2,
+    "Size": 0.00440922745070049,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "United Republic of Tanzania",
+    "Proportion de buveurs": 41.9,
+    "Espérance de vie": 54.2,
+    "Size": -0.00361556650957403,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Botswana",
+    "Proportion de buveurs": 41.5,
+    "Espérance de vie": 56.9,
+    "Size": -0.0196651544301228,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Fiji",
+    "Proportion de buveurs": 41.4,
+    "Espérance de vie": 62.9,
+    "Size": -0.02367755141026,
+    "Color": 0.167414971004892,
+    "Category": "oceanie"
+  },
+  {
+    "Pays": "Uganda",
+    "Proportion de buveurs": 41.3,
+    "Espérance de vie": 54,
+    "Size": -0.0276899483903973,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Gabon",
+    "Proportion de buveurs": 41.1,
+    "Espérance de vie": 57.2,
+    "Size": -0.0357147423506715,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Micronesia (Federated States of)",
+    "Proportion de buveurs": 40.7,
+    "Espérance de vie": 62.5,
+    "Size": -0.0517643302712203,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "South Africa",
+    "Proportion de buveurs": 40.6,
+    "Espérance de vie": 54.4,
+    "Size": -0.0557767272513575,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Equatorial Guinea",
+    "Proportion de buveurs": 40,
+    "Espérance de vie": 51.3,
+    "Size": -0.0798511091321808,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Benin",
+    "Proportion de buveurs": 39.4,
+    "Espérance de vie": 52.5,
+    "Size": -0.103925491013004,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Kazakhstan",
+    "Proportion de buveurs": 39.4,
+    "Espérance de vie": 63.3,
+    "Size": -0.103925491013004,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Turkmenistan",
+    "Proportion de buveurs": 39.3,
+    "Espérance de vie": 59.8,
+    "Size": -0.107937887993141,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Namibia",
+    "Proportion de buveurs": 39,
+    "Espérance de vie": 57.5,
+    "Size": -0.119975078933553,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Zimbabwe",
+    "Proportion de buveurs": 39,
+    "Espérance de vie": 52.1,
+    "Size": -0.119975078933553,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Cabo Verde",
+    "Proportion de buveurs": 38.6,
+    "Espérance de vie": 64.2,
+    "Size": -0.136024666854102,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Cambodia",
+    "Proportion de buveurs": 38.4,
+    "Espérance de vie": 58.1,
+    "Size": -0.144049460814376,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Viet Nam",
+    "Proportion de buveurs": 38.3,
+    "Espérance de vie": 66.6,
+    "Size": -0.148061857794513,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Kyrgyzstan",
+    "Proportion de buveurs": 38.2,
+    "Espérance de vie": 63.9,
+    "Size": -0.15207425477465,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Sao Tome and Principe",
+    "Proportion de buveurs": 38.1,
+    "Espérance de vie": 59,
+    "Size": -0.156086651754788,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Burkina Faso",
+    "Proportion de buveurs": 38,
+    "Espérance de vie": 52.6,
+    "Size": -0.160099048734925,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Uzbekistan",
+    "Proportion de buveurs": 37.2,
+    "Espérance de vie": 62.4,
+    "Size": -0.192198224576022,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Georgia",
+    "Proportion de buveurs": 36.1,
+    "Espérance de vie": 66.4,
+    "Size": -0.236334591357532,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Angola",
+    "Proportion de buveurs": 35.6,
+    "Espérance de vie": 45.9,
+    "Size": -0.256396576258218,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Papua New Guinea",
+    "Proportion de buveurs": 34.6,
+    "Espérance de vie": 56.4,
+    "Size": -0.29652054605959,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Tonga",
+    "Proportion de buveurs": 33,
+    "Espérance de vie": 66,
+    "Size": -0.360718897741785,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Solomon Islands",
+    "Proportion de buveurs": 32.2,
+    "Espérance de vie": 62.1,
+    "Size": -0.392818073582882,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Mauritius",
+    "Proportion de buveurs": 32,
+    "Espérance de vie": 66.8,
+    "Size": -0.400842867543157,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Vanuatu",
+    "Proportion de buveurs": 31.8,
+    "Espérance de vie": 64.6,
+    "Size": -0.408867661503431,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Kiribati",
+    "Proportion de buveurs": 31,
+    "Espérance de vie": 58.7,
+    "Size": -0.440966837344529,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Zambia",
+    "Proportion de buveurs": 30.6,
+    "Espérance de vie": 53.7,
+    "Size": -0.457016425265078,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Guinea-Bissau",
+    "Proportion de buveurs": 30,
+    "Espérance de vie": 51.5,
+    "Size": -0.481090807145901,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Lesotho",
+    "Proportion de buveurs": 30,
+    "Espérance de vie": 46.6,
+    "Size": -0.481090807145901,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Liberia",
+    "Proportion de buveurs": 30,
+    "Espérance de vie": 52.7,
+    "Size": -0.481090807145901,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Thailand",
+    "Proportion de buveurs": 29.7,
+    "Espérance de vie": 66.8,
+    "Size": -0.493127998086313,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Congo",
+    "Proportion de buveurs": 28.7,
+    "Espérance de vie": 56.6,
+    "Size": -0.533251967887685,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Belize",
+    "Proportion de buveurs": 28.6,
+    "Espérance de vie": 62.2,
+    "Size": -0.537264364867822,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Democratic Republic of the Congo",
+    "Proportion de buveurs": 27.9,
+    "Espérance de vie": 51.8,
+    "Size": -0.565351143728782,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "C�te d'Ivoire",
+    "Proportion de buveurs": 23.3,
+    "Espérance de vie": 47,
+    "Size": -0.749921404815094,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Ghana",
+    "Proportion de buveurs": 23.3,
+    "Espérance de vie": 55.3,
+    "Size": -0.749921404815094,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Kenya",
+    "Proportion de buveurs": 22.7,
+    "Espérance de vie": 55.6,
+    "Size": -0.773995786695917,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Central African Republic",
+    "Proportion de buveurs": 21.4,
+    "Espérance de vie": 45.9,
+    "Size": -0.8261569474377,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Democratic People's Republic of Korea",
+    "Proportion de buveurs": 21.1,
+    "Espérance de vie": 64,
+    "Size": -0.838194138378112,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Brunei Darussalam",
+    "Proportion de buveurs": 20.4,
+    "Espérance de vie": 70.3,
+    "Size": -0.866280917239072,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Malawi",
+    "Proportion de buveurs": 19.4,
+    "Espérance de vie": 51.2,
+    "Size": -0.906404887040444,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Proportion de buveurs": 18.3,
+    "Espérance de vie": 67,
+    "Size": -0.950541253821954,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Mozambique",
+    "Proportion de buveurs": 17.9,
+    "Espérance de vie": 49.6,
+    "Size": -0.966590841742502,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Ethiopia",
+    "Proportion de buveurs": 15.7,
+    "Espérance de vie": 56.1,
+    "Size": -1.05486357530552,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "India",
+    "Proportion de buveurs": 15.1,
+    "Espérance de vie": 59.6,
+    "Size": -1.07893795718634,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Madagascar",
+    "Proportion de buveurs": 14.1,
+    "Espérance de vie": 56.9,
+    "Size": -1.11906192698772,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Turkey",
+    "Proportion de buveurs": 13.8,
+    "Espérance de vie": 66.2,
+    "Size": -1.13109911792813,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Chad",
+    "Proportion de buveurs": 13.1,
+    "Espérance de vie": 46.1,
+    "Size": -1.15918589678909,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "United Arab Emirates",
+    "Proportion de buveurs": 13,
+    "Espérance de vie": 68.3,
+    "Size": -1.16319829376923,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Malaysia",
+    "Proportion de buveurs": 12.7,
+    "Espérance de vie": 66.5,
+    "Size": -1.17523548470964,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Comoros",
+    "Proportion de buveurs": 11.9,
+    "Espérance de vie": 55.9,
+    "Size": -1.20733466055073,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Sudan",
+    "Proportion de buveurs": 11.1,
+    "Espérance de vie": 55.9,
+    "Size": -1.23943383639183,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Gambia",
+    "Proportion de buveurs": 11,
+    "Espérance de vie": 53.8,
+    "Size": -1.24344623337197,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Bhutan",
+    "Proportion de buveurs": 10.3,
+    "Espérance de vie": 61.2,
+    "Size": -1.27153301223293,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Lebanon",
+    "Proportion de buveurs": 10.1,
+    "Espérance de vie": 65.7,
+    "Size": -1.2795578061932,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Bahrain",
+    "Proportion de buveurs": 9.8,
+    "Espérance de vie": 67,
+    "Size": -1.29159499713362,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Kuwait",
+    "Proportion de buveurs": 9.7,
+    "Espérance de vie": 65.7,
+    "Size": -1.29560739411375,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Algeria",
+    "Proportion de buveurs": 9.3,
+    "Espérance de vie": 66.3,
+    "Size": -1.3116569820343,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Tajikistan",
+    "Proportion de buveurs": 9.3,
+    "Espérance de vie": 62.1,
+    "Size": -1.3116569820343,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Maldives",
+    "Proportion de buveurs": 9,
+    "Espérance de vie": 69.5,
+    "Size": -1.32369417297471,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Guinea",
+    "Proportion de buveurs": 8.7,
+    "Espérance de vie": 51.7,
+    "Size": -1.33573136391513,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Indonesia",
+    "Proportion de buveurs": 8.1,
+    "Espérance de vie": 62.1,
+    "Size": -1.35980574579595,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Myanmar",
+    "Proportion de buveurs": 7.9,
+    "Espérance de vie": 59.1,
+    "Size": -1.36783053975622,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Nepal",
+    "Proportion de buveurs": 7.6,
+    "Espérance de vie": 61.2,
+    "Size": -1.37986773069663,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Syrian Arab Republic",
+    "Proportion de buveurs": 7.5,
+    "Espérance de vie": 55.9,
+    "Size": -1.38388012767677,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Timor-Leste",
+    "Proportion de buveurs": 7.1,
+    "Espérance de vie": 61.1,
+    "Size": -1.39992971559732,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Qatar",
+    "Proportion de buveurs": 6.7,
+    "Espérance de vie": 67.8,
+    "Size": -1.41597930351787,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Egypt",
+    "Proportion de buveurs": 6.5,
+    "Espérance de vie": 62.2,
+    "Size": -1.42400409747814,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Oman",
+    "Proportion de buveurs": 5.9,
+    "Espérance de vie": 66.6,
+    "Size": -1.44807847935897,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Djibouti",
+    "Proportion de buveurs": 5.8,
+    "Espérance de vie": 55.8,
+    "Size": -1.4520908763391,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Saudi Arabia",
+    "Proportion de buveurs": 5.8,
+    "Espérance de vie": 64.4,
+    "Size": -1.4520908763391,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Tunisia",
+    "Proportion de buveurs": 5.7,
+    "Espérance de vie": 66.7,
+    "Size": -1.45610327331924,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Senegal",
+    "Proportion de buveurs": 5.5,
+    "Espérance de vie": 58.3,
+    "Size": -1.46412806727952,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Iraq",
+    "Proportion de buveurs": 5.4,
+    "Espérance de vie": 60,
+    "Size": -1.46814046425965,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Morocco",
+    "Proportion de buveurs": 5.4,
+    "Espérance de vie": 65.1,
+    "Size": -1.46814046425965,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Somalia",
+    "Proportion de buveurs": 5.4,
+    "Espérance de vie": 47.8,
+    "Size": -1.46814046425965,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Niger",
+    "Proportion de buveurs": 5.3,
+    "Espérance de vie": 54.2,
+    "Size": -1.47215286123979,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Jordan",
+    "Proportion de buveurs": 4.7,
+    "Espérance de vie": 65,
+    "Size": -1.49622724312061,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Iran (Islamic Republic of)",
+    "Proportion de buveurs": 4.2,
+    "Espérance de vie": 66.5,
+    "Size": -1.5162892280213,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Yemen",
+    "Proportion de buveurs": 4.1,
+    "Espérance de vie": 57.7,
+    "Size": -1.52030162500144,
+    "Color": 0.580699096900331,
+    "Category": "Middle East"
+  },
+  {
+    "Pays": "Pakistan",
+    "Proportion de buveurs": 4,
+    "Espérance de vie": 57.8,
+    "Size": -1.52431402198157,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Mali",
+    "Proportion de buveurs": 3.8,
+    "Espérance de vie": 51.1,
+    "Size": -1.53233881594185,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Afghanistan",
+    "Proportion de buveurs": 3.7,
+    "Espérance de vie": 52.3,
+    "Size": -1.53635121292198,
+    "Color": 3.28020488418491,
+    "Category": "Asia"
+  },
+  {
+    "Pays": "Libya",
+    "Proportion de buveurs": 2.4,
+    "Espérance de vie": 63.7,
+    "Size": -1.58851237366377,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Mauritania",
+    "Proportion de buveurs": 2.3,
+    "Espérance de vie": 55.1,
+    "Size": -1.59252477064391,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  },
+  {
+    "Pays": "Bangladesh",
+    "Proportion de buveurs": 1.9,
+    "Espérance de vie": 62.4,
+    "Size": -1.60857435856445,
+    "Color": -0.871688819499146,
+    "Category": "Africa"
+  }
+]

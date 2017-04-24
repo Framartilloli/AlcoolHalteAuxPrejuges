@@ -1,0 +1,1262 @@
+[
+  {
+    "Pays": "France",
+    "Proportion de buveurs": 94.8,
+    "Proportion de musulmans": 6,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Luxembourg",
+    "Proportion de buveurs": 93.9,
+    "Proportion de musulmans": 3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Czech Republic",
+    "Proportion de buveurs": 89.1,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Denmark",
+    "Proportion de buveurs": 88.6,
+    "Proportion de musulmans": 2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Switzerland",
+    "Proportion de buveurs": 88.5,
+    "Proportion de musulmans": 4.3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Netherlands",
+    "Proportion de buveurs": 88.2,
+    "Proportion de musulmans": 5.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Norway",
+    "Proportion de buveurs": 85.9,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Cyprus",
+    "Proportion de buveurs": 85,
+    "Proportion de musulmans": 22.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Australia",
+    "Proportion de buveurs": 84,
+    "Proportion de musulmans": 1.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "United Kingdom of Great Britain and Northern Ireland",
+    "Proportion de buveurs": 83.9,
+    "Proportion de musulmans": 2.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Belgium",
+    "Proportion de buveurs": 82.3,
+    "Proportion de musulmans": 3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Hungary",
+    "Proportion de buveurs": 81.4,
+    "Proportion de musulmans": 0.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Ireland",
+    "Proportion de buveurs": 80.9,
+    "Proportion de musulmans": 0.5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Croatia",
+    "Proportion de buveurs": 80.5,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Germany",
+    "Proportion de buveurs": 80.3,
+    "Proportion de musulmans": 5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "New Zealand",
+    "Proportion de buveurs": 79.5,
+    "Proportion de musulmans": 0.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Belarus",
+    "Proportion de buveurs": 79.2,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Austria",
+    "Proportion de buveurs": 77.4,
+    "Proportion de musulmans": 4.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Canada",
+    "Proportion de buveurs": 77.1,
+    "Proportion de musulmans": 2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Japan",
+    "Proportion de buveurs": 68.9,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "United States of America",
+    "Proportion de buveurs": 68.9,
+    "Proportion de musulmans": 0.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Sweden",
+    "Proportion de buveurs": 68.8,
+    "Proportion de musulmans": 2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Barbados",
+    "Proportion de buveurs": 68.6,
+    "Proportion de musulmans": 0.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Andorra",
+    "Proportion de buveurs": 68.3,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Spain",
+    "Proportion de buveurs": 68.3,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Ukraine",
+    "Proportion de buveurs": 68.3,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Finland",
+    "Proportion de buveurs": 68,
+    "Proportion de musulmans": 0.5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Iceland",
+    "Proportion de buveurs": 67.9,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Russian Federation",
+    "Proportion de buveurs": 67.8,
+    "Proportion de musulmans": 11.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Latvia",
+    "Proportion de buveurs": 67.7,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Italy",
+    "Proportion de buveurs": 67.6,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Romania",
+    "Proportion de buveurs": 67.6,
+    "Proportion de musulmans": 0.3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Slovenia",
+    "Proportion de buveurs": 67.6,
+    "Proportion de musulmans": 2.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Bulgaria",
+    "Proportion de buveurs": 67.4,
+    "Proportion de musulmans": 12.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Antigua and Barbuda",
+    "Proportion de buveurs": 66.6,
+    "Proportion de musulmans": 0.6,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Republic of Moldova",
+    "Proportion de buveurs": 66.3,
+    "Proportion de musulmans": 0.5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Greece",
+    "Proportion de buveurs": 66.2,
+    "Proportion de musulmans": 3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Serbia",
+    "Proportion de buveurs": 66,
+    "Proportion de musulmans": 3.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Chile",
+    "Proportion de buveurs": 65.9,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Slovakia",
+    "Proportion de buveurs": 65.8,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Lithuania",
+    "Proportion de buveurs": 65.3,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Estonia",
+    "Proportion de buveurs": 65.2,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Montenegro",
+    "Proportion de buveurs": 65.2,
+    "Proportion de musulmans": 17.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Armenia",
+    "Proportion de buveurs": 64,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Togo",
+    "Proportion de buveurs": 62.8,
+    "Proportion de musulmans": 12.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Cuba",
+    "Proportion de buveurs": 62.2,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Paraguay",
+    "Proportion de buveurs": 61.9,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Malta",
+    "Proportion de buveurs": 60.6,
+    "Proportion de musulmans": 0.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Panama",
+    "Proportion de buveurs": 59.8,
+    "Proportion de musulmans": 0.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Guyana",
+    "Proportion de buveurs": 59.5,
+    "Proportion de musulmans": 7.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Venezuela (Bolivarian Republic of)",
+    "Proportion de buveurs": 59.1,
+    "Proportion de musulmans": 0.3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Dominica",
+    "Proportion de buveurs": 59,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Argentina",
+    "Proportion de buveurs": 58.8,
+    "Proportion de musulmans": 1.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Uruguay",
+    "Proportion de buveurs": 58.7,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Brazil",
+    "Proportion de buveurs": 57.7,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Bosnia and Herzegovina",
+    "Proportion de buveurs": 57.2,
+    "Proportion de musulmans": 40,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Portugal",
+    "Proportion de buveurs": 57,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Mexico",
+    "Proportion de buveurs": 56.9,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Haiti",
+    "Proportion de buveurs": 55.4,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Peru",
+    "Proportion de buveurs": 55.4,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Dominican Republic",
+    "Proportion de buveurs": 55.2,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Bahamas",
+    "Proportion de buveurs": 55,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Palau",
+    "Proportion de buveurs": 55,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Albania",
+    "Proportion de buveurs": 53.8,
+    "Proportion de musulmans": 79.9,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Israel",
+    "Proportion de buveurs": 51.9,
+    "Proportion de musulmans": 16.7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Suriname",
+    "Proportion de buveurs": 51.9,
+    "Proportion de musulmans": 15.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Bolivia (Plurinational State of)",
+    "Proportion de buveurs": 51.7,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Poland",
+    "Proportion de buveurs": 51.7,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Costa Rica",
+    "Proportion de buveurs": 51.4,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Trinidad and Tobago",
+    "Proportion de buveurs": 51.1,
+    "Proportion de musulmans": 5.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Singapore",
+    "Proportion de buveurs": 49.9,
+    "Proportion de musulmans": 14.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Nicaragua",
+    "Proportion de buveurs": 49.3,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Grenada",
+    "Proportion de buveurs": 48.4,
+    "Proportion de musulmans": 0.3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Colombia",
+    "Proportion de buveurs": 48.3,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Lao People's Democratic Republic",
+    "Proportion de buveurs": 47.9,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Honduras",
+    "Proportion de buveurs": 47.4,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Ecuador",
+    "Proportion de buveurs": 47.3,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Jamaica",
+    "Proportion de buveurs": 45.8,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Mongolia",
+    "Proportion de buveurs": 45.7,
+    "Proportion de musulmans": 5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Samoa",
+    "Proportion de buveurs": 45.3,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Cook Islands",
+    "Proportion de buveurs": 45.1,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Republic of Korea",
+    "Proportion de buveurs": 44.8,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Rwanda",
+    "Proportion de buveurs": 44.7,
+    "Proportion de musulmans": 1.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Proportion de buveurs": 44.7,
+    "Proportion de musulmans": 71.3,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Philippines",
+    "Proportion de buveurs": 44.3,
+    "Proportion de musulmans": 5.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Seychelles",
+    "Proportion de buveurs": 44.2,
+    "Proportion de musulmans": 1.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "China",
+    "Proportion de buveurs": 44.1,
+    "Proportion de musulmans": 1.6,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Azerbaijan",
+    "Proportion de buveurs": 44,
+    "Proportion de musulmans": 99.2,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "El Salvador",
+    "Proportion de buveurs": 44,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Niue",
+    "Proportion de buveurs": 44,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Swaziland",
+    "Proportion de buveurs": 43.9,
+    "Proportion de musulmans": 0.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Nigeria",
+    "Proportion de buveurs": 43.6,
+    "Proportion de musulmans": 50.4,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Eritrea",
+    "Proportion de buveurs": 43.3,
+    "Proportion de musulmans": 36.5,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Cameroon",
+    "Proportion de buveurs": 43.2,
+    "Proportion de musulmans": 17.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Guatemala",
+    "Proportion de buveurs": 42.3,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Burundi",
+    "Proportion de buveurs": 42.1,
+    "Proportion de musulmans": 2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "United Republic of Tanzania",
+    "Proportion de buveurs": 41.9,
+    "Proportion de musulmans": 30.2,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Botswana",
+    "Proportion de buveurs": 41.5,
+    "Proportion de musulmans": 0.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Fiji",
+    "Proportion de buveurs": 41.4,
+    "Proportion de musulmans": 6.3,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Uganda",
+    "Proportion de buveurs": 41.3,
+    "Proportion de musulmans": 12.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Gabon",
+    "Proportion de buveurs": 41.1,
+    "Proportion de musulmans": 9.5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "South Africa",
+    "Proportion de buveurs": 40.6,
+    "Proportion de musulmans": 1.5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Equatorial Guinea",
+    "Proportion de buveurs": 40,
+    "Proportion de musulmans": 4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Benin",
+    "Proportion de buveurs": 39.4,
+    "Proportion de musulmans": 24.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Kazakhstan",
+    "Proportion de buveurs": 39.4,
+    "Proportion de musulmans": 56.4,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Turkmenistan",
+    "Proportion de buveurs": 39.3,
+    "Proportion de musulmans": 93.1,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Namibia",
+    "Proportion de buveurs": 39,
+    "Proportion de musulmans": 0.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Zimbabwe",
+    "Proportion de buveurs": 39,
+    "Proportion de musulmans": 0.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Cambodia",
+    "Proportion de buveurs": 38.4,
+    "Proportion de musulmans": 1.6,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Viet Nam",
+    "Proportion de buveurs": 38.3,
+    "Proportion de musulmans": 0.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Kyrgyzstan",
+    "Proportion de buveurs": 38.2,
+    "Proportion de musulmans": 86.3,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Sao Tome and Principe",
+    "Proportion de buveurs": 38.1,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Burkina Faso",
+    "Proportion de buveurs": 38,
+    "Proportion de musulmans": 59,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Uzbekistan",
+    "Proportion de buveurs": 37.2,
+    "Proportion de musulmans": 96.3,
+    "Category": "drunk muslim",
+    "Size": 5
+  },
+  {
+    "Pays": "Georgia",
+    "Proportion de buveurs": 36.1,
+    "Proportion de musulmans": 9.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Angola",
+    "Proportion de buveurs": 35.6,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Papua New Guinea",
+    "Proportion de buveurs": 34.6,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Tonga",
+    "Proportion de buveurs": 33,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Solomon Islands",
+    "Proportion de buveurs": 32.2,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Mauritius",
+    "Proportion de buveurs": 32,
+    "Proportion de musulmans": 16.6,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Vanuatu",
+    "Proportion de buveurs": 31.8,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Kiribati",
+    "Proportion de buveurs": 31,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Zambia",
+    "Proportion de buveurs": 30.6,
+    "Proportion de musulmans": 0.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Lesotho",
+    "Proportion de buveurs": 30,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Liberia",
+    "Proportion de buveurs": 30,
+    "Proportion de musulmans": 12.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Thailand",
+    "Proportion de buveurs": 29.7,
+    "Proportion de musulmans": 5.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Congo",
+    "Proportion de buveurs": 28.7,
+    "Proportion de musulmans": 1.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Belize",
+    "Proportion de buveurs": 28.6,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Nauru",
+    "Proportion de buveurs": 28.1,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Democratic Republic of the Congo",
+    "Proportion de buveurs": 27.9,
+    "Proportion de musulmans": 1.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Tuvalu",
+    "Proportion de buveurs": 24.4,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Ghana",
+    "Proportion de buveurs": 23.3,
+    "Proportion de musulmans": 15.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Kenya",
+    "Proportion de buveurs": 22.7,
+    "Proportion de musulmans": 7,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Central African Republic",
+    "Proportion de buveurs": 21.4,
+    "Proportion de musulmans": 8.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Democratic People's Republic of Korea",
+    "Proportion de buveurs": 21.1,
+    "Proportion de musulmans": 0.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Malawi",
+    "Proportion de buveurs": 19.4,
+    "Proportion de musulmans": 12.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Proportion de buveurs": 18.3,
+    "Proportion de musulmans": 8.5,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Mozambique",
+    "Proportion de buveurs": 17.9,
+    "Proportion de musulmans": 22.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Ethiopia",
+    "Proportion de buveurs": 15.7,
+    "Proportion de musulmans": 33.9,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "India",
+    "Proportion de buveurs": 15.1,
+    "Proportion de musulmans": 13.4,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Madagascar",
+    "Proportion de buveurs": 14.1,
+    "Proportion de musulmans": 1.1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Turkey",
+    "Proportion de buveurs": 13.8,
+    "Proportion de musulmans": 98,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Chad",
+    "Proportion de buveurs": 13.1,
+    "Proportion de musulmans": 55.8,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "United Arab Emirates",
+    "Proportion de buveurs": 13,
+    "Proportion de musulmans": 76.2,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Malaysia",
+    "Proportion de buveurs": 12.7,
+    "Proportion de musulmans": 60.4,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Comoros",
+    "Proportion de buveurs": 11.9,
+    "Proportion de musulmans": 98.3,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Sudan",
+    "Proportion de buveurs": 11.1,
+    "Proportion de musulmans": 71.3,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Gambia",
+    "Proportion de buveurs": 11,
+    "Proportion de musulmans": 95,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Bhutan",
+    "Proportion de buveurs": 10.3,
+    "Proportion de musulmans": 1,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Lebanon",
+    "Proportion de buveurs": 10.1,
+    "Proportion de musulmans": 59.3,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Bahrain",
+    "Proportion de buveurs": 9.8,
+    "Proportion de musulmans": 81.2,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Kuwait",
+    "Proportion de buveurs": 9.7,
+    "Proportion de musulmans": 95,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Algeria",
+    "Proportion de buveurs": 9.3,
+    "Proportion de musulmans": 98,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Tajikistan",
+    "Proportion de buveurs": 9.3,
+    "Proportion de musulmans": 84.1,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Maldives",
+    "Proportion de buveurs": 9,
+    "Proportion de musulmans": 98.4,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Guinea",
+    "Proportion de buveurs": 8.7,
+    "Proportion de musulmans": 84.4,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Indonesia",
+    "Proportion de buveurs": 8.1,
+    "Proportion de musulmans": 88.2,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Nepal",
+    "Proportion de buveurs": 7.6,
+    "Proportion de musulmans": 4.2,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Syrian Arab Republic",
+    "Proportion de buveurs": 7.5,
+    "Proportion de musulmans": 92.2,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Timor-Leste",
+    "Proportion de buveurs": 7.1,
+    "Proportion de musulmans": 3.8,
+    "Category": "non muslim",
+    "Size": 0.5
+  },
+  {
+    "Pays": "Qatar",
+    "Proportion de buveurs": 6.7,
+    "Proportion de musulmans": 77.5,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Egypt",
+    "Proportion de buveurs": 6.5,
+    "Proportion de musulmans": 94.6,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Oman",
+    "Proportion de buveurs": 5.9,
+    "Proportion de musulmans": 87.7,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Djibouti",
+    "Proportion de buveurs": 5.8,
+    "Proportion de musulmans": 96.9,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Saudi Arabia",
+    "Proportion de buveurs": 5.8,
+    "Proportion de musulmans": 97,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Tunisia",
+    "Proportion de buveurs": 5.7,
+    "Proportion de musulmans": 99.5,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Senegal",
+    "Proportion de buveurs": 5.5,
+    "Proportion de musulmans": 96,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Iraq",
+    "Proportion de buveurs": 5.4,
+    "Proportion de musulmans": 99,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Morocco",
+    "Proportion de buveurs": 5.4,
+    "Proportion de musulmans": 99,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Somalia",
+    "Proportion de buveurs": 5.4,
+    "Proportion de musulmans": 98.5,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Niger",
+    "Proportion de buveurs": 5.3,
+    "Proportion de musulmans": 98.6,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Jordan",
+    "Proportion de buveurs": 4.7,
+    "Proportion de musulmans": 98.2,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Iran (Islamic Republic of)",
+    "Proportion de buveurs": 4.2,
+    "Proportion de musulmans": 99.4,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Yemen",
+    "Proportion de buveurs": 4.1,
+    "Proportion de musulmans": 99.1,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Pakistan",
+    "Proportion de buveurs": 4,
+    "Proportion de musulmans": 96.3,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Mali",
+    "Proportion de buveurs": 3.8,
+    "Proportion de musulmans": 92.5,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Afghanistan",
+    "Proportion de buveurs": 3.7,
+    "Proportion de musulmans": 99.7,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Libya",
+    "Proportion de buveurs": 2.4,
+    "Proportion de musulmans": 96.6,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Mauritania",
+    "Proportion de buveurs": 2.3,
+    "Proportion de musulmans": 99.1,
+    "Category": "muslim",
+    "Size": 1
+  },
+  {
+    "Pays": "Bangladesh",
+    "Proportion de buveurs": 1.9,
+    "Proportion de musulmans": 89.6,
+    "Category": "muslim",
+    "Size": 1
+  }
+]

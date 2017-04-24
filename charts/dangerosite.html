@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link href="../build/nv.d3.css" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset="utf-8"></script>
+    <script src="../build/nv.d3.js"></script>
+
+    <style>
+        text {
+            font: 12px sans-serif;
+        }
+        svg {
+            display: block;
+        }
+        html, body, #chart1, svg {
+            margin: 0px;
+            padding: 0px;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chart1">
+    <svg></svg>
+</div>
+
+<script>
+
+    historicalBarChart = [
+        {
+            key: "Cumulative Return",
+            values: [
+                {
+                    "label" : "Alcool" ,
+                    "value" : 72
+                } ,
+                {
+                    "label" : "Heroine" ,
+                    "value" : 55
+                } ,
+                {
+                    "label" : "Crack" ,
+                    "value" : 54
+                } ,
+                {
+                    "label" : "Mets" ,
+                    "value" : 33
+                } ,
+                {
+                    "label" : "Cocaine" ,
+                    "value" : 27
+                } ,
+                {
+                    "label" : "Tabac" ,
+                    "value" : 26
+                } ,
+                {
+                    "label" : "Amphets" ,
+                    "value" : 23
+                } ,
+                {
+                    "label" : "Cannabis" ,
+                    "value" : 20
+                } ,
+                {
+                    "label" : "GHB" ,
+                    "value" : 19
+                } ,
+                {
+                    "label" : "Ectasy" ,
+                    "value" : 9
+                } ,
+                {
+                    "label" : "LSD" ,
+                    "value" : 7
+                } ,
+                {
+                    "label" : "Champignons" ,
+                    "value" : 6
+                }
+            ]
+        }
+    ];
+
+    nv.addGraph(function() {
+        var chart = nv.models.discreteBarChart()
+            .x(function(d) { return d.label })
+            .y(function(d) { return d.value })
+            .staggerLabels(true)
+            //.staggerLabels(historicalBarChart[0].values.length > 8)
+            .showValues(true)
+            .duration(250)
+            ;
+        chart.yAxis.axisLabel('Dangerosité pour soi et les autres');
+        d3.select('#chart1 svg')
+            .datum(historicalBarChart)
+            .call(chart);
+
+        nv.utils.windowResize(chart.update);
+        return chart;
+    });
+
+
+</script>
+</body>
+</html>
