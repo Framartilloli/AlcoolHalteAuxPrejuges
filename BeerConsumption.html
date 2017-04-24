@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link href="../build/nv.d3.css" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset="utf-8"></script>
+    <script src="../build/nv.d3.js"></script>
+    <script src="lib/stream_layers.js"></script>
+
+    <style>
+        text {
+            font: 12px sans-serif;
+        }
+        svg {
+            display: block;
+        }
+        html, body, #chart1, svg {
+            margin: 0px;
+            padding: 0px;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chart1" class='with-3d-shadow with-transitions'>
+    <svg></svg>
+</div>
+
+<script>
+
+    var long_short_data = [
+        {
+            values: [
+                      {
+                        "label": "Namibie",
+                        "value": 7.16
+                      },
+                      {
+                        "label": "Repuplique Tcheque",
+                        "value": 6.79
+                      },
+                      {
+                        "label": "Guinee Equatoriale",
+                        "value": 6.26
+                      },
+                      {
+                        "label": "Autriche",
+                        "value": 6.1
+                      },
+                      {
+                        "label": "Allemagne",
+                        "value": 6.01
+                      },
+                      {
+                        "label": "Lithuanie",
+                        "value": 6
+                      },
+                      {
+                        "label": "Gabon",
+                        "value": 5.96
+                      },
+                      {
+                        "label": "Pologne",
+                        "value": 5.88
+                      },
+                      {
+                        "label": "Estonie",
+                        "value": 5.87
+                      },
+                      {
+                        "label": "Ireland",
+                        "value": 5.73
+                      },
+                      {
+                        "label": "Venezuela",
+                        "value": 5.43
+                      },
+                      {
+                        "label": "Angola",
+                        "value": 5.12
+                      },
+                      {
+                        "label": "Belgique",
+                        "value": 5.02
+                      },
+                      {
+                        "label": "Islande",
+                        "value": 4.98
+                      },
+                      {
+                        "label": "Espagne",
+                        "value": 4.87
+                      },
+                      {
+                        "label": "Panama",
+                        "value": 4.82
+                      },
+                      {
+                        "label": "Slovenie",
+                        "value": 4.59
+                      },
+                      {
+                        "label": "Lettonie",
+                        "value": 4.57
+                      },
+                      {
+                        "label": "Belize",
+                        "value": 4.52
+                      }
+                    ]
+        }
+    ];
+
+
+    var chart;
+    nv.addGraph(function() {
+        chart = nv.models.multiBarHorizontalChart()
+            .x(function(d) { return d.label })
+            .y(function(d) { return d.value })
+            .barColor(d3.scale.category20().range())
+            .duration(250)
+            .showControls(false)
+            .showLegend(false)
+            .legendPosition("bottom")
+            .controlsPosition("bottom")
+            .margin({left: 150})
+            .stacked(true);
+
+        chart.yAxis.tickFormat(d3.format(',.2f'));
+
+        chart.yAxis.axisLabel("Consommation de bière (en litres d'alcool pur par habitant et par an)");
+
+        d3.select('#chart1 svg')
+            .datum(long_short_data)
+            .call(chart);
+
+        nv.utils.windowResize(chart.update);
+
+        chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+        chart.state.dispatch.on('change', function(state){
+            nv.log('state', JSON.stringify(state));
+        });
+        return chart;
+    });
+
+</script>
+</body>
+</html>
